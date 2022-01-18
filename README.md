@@ -3,6 +3,7 @@
 
 ![ALT version](https://img.shields.io/badge/npm-0.0.1-blue)
 ![ALT mit-license](https://img.shields.io/github/license/Nirajsah17/random-number-generator)
+![ALT language](https://img.shields.io/badge/nodejs-random-green)
 
 Generate random without randomly
 
