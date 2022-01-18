@@ -15,6 +15,6 @@ npm install @cs_niraj/random-number-generator
 ## Usage
 
 ```javascript
-const randomNumberGenerator = require('random-number-generator');
+const randomNumberGenerator = require('cs_niraj/random-number-generator');
 console.log(randomNumberGenerator(5, 10));
 ```
